@@ -34,7 +34,3 @@ tinsina
 
 Bilel
 
-Shaïkou
-
-
-
