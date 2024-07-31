@@ -1,7 +1,9 @@
 # webapp
+Lamine
+
 Thierry
 
-Mamadou
+mamadou
 
 Amadou
 
@@ -209,7 +211,7 @@ SMK
 
 Anselme
 
-Nabile M
+Nabile
 
 Alexandre
 
