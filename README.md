@@ -1,10 +1,6 @@
 # webapp
 kml
 
-
-
-
-
 Tidiane 
 
 Florent C.
